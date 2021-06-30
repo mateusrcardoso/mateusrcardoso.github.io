@@ -2,6 +2,8 @@
 
 Full Stack Developer.
 
+![GitHub Logo](/images/profile.jpg)
+
 ### Knowledge
 
 Languages...
@@ -23,5 +25,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
